@@ -1,0 +1,13 @@
+{
+	"centurion_color_grey": true,
+	"centurion_tab_close_buttons": true,
+	"centurion_tab_scrolling": true,
+	"color_scheme": "Packages/Theme - Centurion/Galea.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 3,
+	"theme": "Centurion.sublime-theme",
+	"translate_tabs_to_spaces": false
+}

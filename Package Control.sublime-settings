@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"ColorPicker",
+		"DocBlockr",
+		"Git",
+		"Package Control",
+		"SublimeREPL",
+		"Theme - Centurion",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
